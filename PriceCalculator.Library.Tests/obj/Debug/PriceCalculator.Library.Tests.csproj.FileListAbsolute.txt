@@ -1,0 +1,9 @@
+D:\Me\Programming\RestaurantPromotion\PriceCalculator.Library.Tests\obj\Debug\PriceCalculator.Library.Tests.csprojResolveAssemblyReference.cache
+D:\Me\Programming\RestaurantPromotion\PriceCalculator.Library.Tests\bin\Debug\PriceCalculator.Library.Tests.dll
+D:\Me\Programming\RestaurantPromotion\PriceCalculator.Library.Tests\bin\Debug\PriceCalculator.Library.Tests.pdb
+D:\Me\Programming\RestaurantPromotion\PriceCalculator.Library.Tests\bin\Debug\nunit.framework.dll
+D:\Me\Programming\RestaurantPromotion\PriceCalculator.Library.Tests\bin\Debug\PriceCalculator.Library.dll
+D:\Me\Programming\RestaurantPromotion\PriceCalculator.Library.Tests\bin\Debug\PriceCalculator.Library.pdb
+D:\Me\Programming\RestaurantPromotion\PriceCalculator.Library.Tests\bin\Debug\nunit.framework.xml
+D:\Me\Programming\RestaurantPromotion\PriceCalculator.Library.Tests\obj\Debug\PriceCalculator.Library.Tests.dll
+D:\Me\Programming\RestaurantPromotion\PriceCalculator.Library.Tests\obj\Debug\PriceCalculator.Library.Tests.pdb

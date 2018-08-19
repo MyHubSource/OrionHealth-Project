@@ -1,0 +1,4 @@
+D:\Me\Programming\RestaurantPromotion\PriceCalculator.Library\bin\Debug\PriceCalculator.Library.dll
+D:\Me\Programming\RestaurantPromotion\PriceCalculator.Library\bin\Debug\PriceCalculator.Library.pdb
+D:\Me\Programming\RestaurantPromotion\PriceCalculator.Library\obj\Debug\PriceCalculator.Library.dll
+D:\Me\Programming\RestaurantPromotion\PriceCalculator.Library\obj\Debug\PriceCalculator.Library.pdb
